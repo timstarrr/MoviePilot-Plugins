@@ -1,5 +1,5 @@
 {
-  "SubscriptionSync": {
+  "CloudSub": {
     "name": "同步订阅至CloudSub",
     "description": "将订阅变更信息实时推送到CloudSub服务器",
     "author": "timstarrr",
