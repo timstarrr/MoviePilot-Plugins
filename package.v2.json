@@ -1,0 +1,16 @@
+{
+  "SubscriptionSync": {
+    "name": "同步订阅至CloudSub",
+    "description": "将订阅变更信息实时推送到CloudSub服务器",
+    "author": "timstarrr",
+    "version": "1.0.2",
+    "icon": "https://raw.githubusercontent.com/timstarrr/MoviePilot-Plugins/refs/heads/main/icons/cloudsub.png",
+    "labels": "订阅, 同步, 工具",
+    "level": 1,
+    "history": {
+      "1.0.2": "新增开关，支持一次性导入全部订阅至CloudSub",
+      "1.0.1": "优化同步逻辑，支持电视剧季信息拆分",
+      "1.0.0": "初始版本，支持新增和删除订阅同步"
+    }
+  }
+}
